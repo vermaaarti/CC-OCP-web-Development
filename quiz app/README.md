@@ -1,1 +1,1 @@
-# CodeClause_Quiz-App-with-Admin-Panel.github.io
+# CodeClause_Quiz-App-with-Admin-Panel
